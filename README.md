@@ -40,13 +40,11 @@ Gu, Jing, and Dongmian Zou. "Three Revisits to Node-Level Graph Anomaly Detectio
 or
 
 ```
-@inproceedings{
-gu2023three,
-title={Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks},
-author={Jing Gu and Dongmian Zou},
-booktitle={The Second Learning on Graphs Conference},
-year={2023},
-url={https://openreview.net/forum?id=fNsU9gi1Fy}
+@inproceedings{gu2023three,
+  title={Three Revisits to Node-Level Graph Anomaly Detection: Outliers, Message Passing and Hyperbolic Neural Networks},
+  author={Gu, Jing and Zou, Dongmian},
+  booktitle={The Second Learning on Graphs Conference},
+  year={2023}
 }
 ```
 
